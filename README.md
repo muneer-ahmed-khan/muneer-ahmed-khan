@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Muneer Khan
 - 👀 I am an aspiring Web Developer.
+- 👀 I am Currently working on Javasciprt Vue.js and Node js.
 - 🌱 I’m currently learning Typescript and ReactjS
 - 💞️ I’m looking to collaborate on Open Source Projects
 
