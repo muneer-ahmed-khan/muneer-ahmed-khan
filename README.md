@@ -9,7 +9,7 @@
 
 👉 Web Developer
 
-👉 Open CV and ML Learner
+👉 Node js and Frontend Developer
 
 
 - 📫 How to reach me: muneerkhan31886@gmail.com | https://www.linkedin.com/in/muneer-ahmed-a59362140/
