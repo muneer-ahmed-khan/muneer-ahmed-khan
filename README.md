@@ -9,7 +9,10 @@
 
 👉 Web Developer
 
-👉 Node js and Frontend Developer
+👉 Mern Stack Developer
+
+👉 List of Technologies i use the most
+  - Javascript | TypeScript | Node | Vue | React | Python
 
 
 - 📫 How to reach me: muneerkhan31886@gmail.com | https://www.linkedin.com/in/muneer-ahmed-a59362140/
