@@ -12,7 +12,7 @@
 👉 Mern Stack Developer
 
 👉 List of Technologies i use the most
-  - Javascript | TypeScript | Node | Nest | Vue | React 
+  - Javascript | TypeScript | Node | Nest | Vue | Docker 
 
 
 - 📫 How to reach me: muneerkhan31886@gmail.com | https://www.linkedin.com/in/muneer-ahmed-a59362140/
