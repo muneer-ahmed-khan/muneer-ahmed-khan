@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muneer Khan
+- 👋 Hi, I’m Muneer Ahmed
 - 👀 I am an aspiring Web Developer.
 - 👀 I am Currently working on Javasciprt Vue.js and Node js.
 - 🌱 I’m currently learning NestJs and ReactjS
