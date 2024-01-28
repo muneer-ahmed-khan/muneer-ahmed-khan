@@ -1,21 +1,28 @@
-- 👋 Hi, I’m Muneer Ahmed
-- 👀 I am an aspiring Web Developer.
-- 👀 I am Currently working on Javasciprt Vue.js and Node js.
-- 🌱 I’m currently learning NestJs and ReactjS
-- 💞️ I’m looking to collaborate on Open Source Projects
+# Muneer Ahmed - Web Developer
 
+Welcome to my GitHub profile! I'm Muneer Ahmed, an aspiring web developer with a passion for coding and exploring new technologies. Currently, I'm actively engaged in projects involving JavaScript, Vue.js, and Node.js, while also expanding my skill set by learning Nest.js and React.js.
 
-👉 Coding enthusiastic
+## About Me
 
-👉 Web Developer
+- 👨‍💻 Coding Enthusiast
+- 🌐 Web Developer
+- 🛠 MERN Stack Developer
 
-👉 Mern Stack Developer
+## Technologies I Love
 
-👉 List of Technologies i use the most
-  - Javascript | TypeScript | Node | Nest | Vue | Docker 
+- JavaScript | TypeScript | Node.js | Nest.js | Vue.js | Docker
 
+## Current Endeavors
 
-- 📫 How to reach me: muneerkhan31886@gmail.com | https://www.linkedin.com/in/muneer-ahmed-a59362140/
+- 🌱 Currently learning Nest.js and React.js
+- 💼 Open to collaborate on exciting open-source projects
+
+## How to Reach Me
+
+- 📧 Email: muneerkhan31886@gmail.com
+- 🔗 LinkedIn: [Muneer Ahmed](https://www.linkedin.com/in/muneer-ahmed-a59362140/)
+
+Feel free to explore my repositories and connect with me. Let's create something amazing together!
 
 <!---
 muneer-ahmed-khan/muneer-ahmed-khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
