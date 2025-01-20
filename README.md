@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile! I'm Muneer Ahmed, an aspiring web developer with a passion for coding and exploring new technologies. Currently, I'm actively engaged in projects involving JavaScript, Vue.js, and Node.js, while also expanding my skill set by learning Nest.js and React.js.
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=muneer-ahmed-khan)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=muneer-ahmed-khan&right_color=%233b4f9c)
+
+
 
 
 ## About Me
