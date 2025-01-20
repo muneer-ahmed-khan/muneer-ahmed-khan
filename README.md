@@ -22,10 +22,6 @@ Welcome to my GitHub profile! I'm Muneer Ahmed, an aspiring web developer with a
 - 📧 Email: muneerkhan31886@gmail.com
 - 🔗 LinkedIn: [Muneer Ahmed](https://www.linkedin.com/in/muneer-ahmed-a59362140/)
 - 🌐 Website: [Portfolio](https://muneer-ahmed.vercel.app/)
+- 📝 Blog: [Nest of Blogs](https://nest-of-blogs.vercel.app/)
 
 Feel free to explore my repositories and connect with me. Let's create something amazing together!
-
-<!---
-muneer-ahmed-khan/muneer-ahmed-khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
